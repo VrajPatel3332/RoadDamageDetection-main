@@ -33,7 +33,7 @@ st.divider()
 st.markdown(
     """
     This project is created for the [vraj patel]    
-    github link: """
+    github link:https://github.com/VrajPatel3332/RoadDamageDetection-main.git. """
     
 )
 
