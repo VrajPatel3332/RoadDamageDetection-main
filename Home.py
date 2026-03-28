@@ -32,7 +32,8 @@ st.divider()
 
 st.markdown(
     """
-    This project is created for the [vraj patel]"""
+    This project is created for the [vraj patel]    
+    github link: """
     
 )
 
